@@ -9,7 +9,7 @@ This repo contains the transcription of modern manuscripts
 | Author     | Language | Transcriber                     | Century |
 |------------|----------|---------------------------------|---------|
 | Flaubert   | French   | E. Morlock and St. Dord-Crouslé | 19th c. |
-| Anonymous  | Italian  | S. Crespi                       | 17th c. |
+| I. Fabroni | Italian  | S. Crespi                       | 17th c. |
 | King James | English  | B. Chaix Rouchon                | 17th c. |
 | Leibniz    | French   | D. Rabouin                      | 17th c. |
 | Harriot    | Latin    | A. Remaki                       | 17th c. |
