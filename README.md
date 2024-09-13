@@ -6,15 +6,18 @@ This repo contains the transcription of modern manuscripts
 
 ## Content
 
-
-| Author /editor    | Title                                                                | Pages    | Date | Transcription          |
-|-------------------|----------------------------------------------------------------------|----------|------|------------------------|
-| Bremon-Masgrau    | ["L'apendicitis sota el punt de vista radiològic", _Medicina Física_](https://revistes.iec.cat/index.php/medfis/article/view/140747)  | 10 pages | 1935 | S. Gabay               |
+| Author     | Language | Transcriber                     |
+|------------|----------|---------------------------------|
+| Flaubert   | French   | E. Morlock and St. Dord-Crouslé |
+| Anonymous  | Italian  | S. Crespi                       |
+| King James | English  | B. Chaix Rouchon                |
+| Leibniz    | French    | D. Rabouin                     |
+| Harriot    | Latin    | A. Remaki                       |
 
 
 ## How to cite
 
-Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/TranscriboQuest_Modern/blob/main/htr-united.yml) file.
+Cf. [`htr-united.yml`](https://github.com/gabays/TranscriboQuest_Modern/blob/main/htr-united.yml) file.
 
 ## Licences
 Annotation is ©. Images belong to the digital libraries.
