@@ -138,6 +138,7 @@ characters:
   -  
   - ’
   mode: NFD
+citation-file-link: https://raw.githubusercontent.com/gabays/TranscriboQuest_Modern/main/citation.cff
 description: qqpart
 format: Alto-XML
 hands:
@@ -163,6 +164,7 @@ time:
   notAfter: '1885'
   notBefore: '1600'
 title: Transcribo_quest
+transcription-guidelines: A ajouter
 url: https://github.com/gabays/TranscriboQuest_Modern
 volume:
 - count: 37255
@@ -173,5 +175,3 @@ volume:
   metric: lines
 - count: 223
   metric: regions
-citation-file-link: https://raw.githubusercontent.com/gabays/TranscriboQuest_Modern/main/citation.cff
-transcription-guidelines: A ajouter
