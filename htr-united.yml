@@ -78,11 +78,11 @@ characters:
   - V
   - '-'
   - T
-  - B
   - ':'
-  - '8'
+  - B
   - j
   - '2'
+  - '8'
   - F
   - z
   - )
@@ -99,10 +99,10 @@ characters:
   - k
   - '0'
   - '9'
-  - '5'
   - '4'
-  - R
+  - '5'
   - '7'
+  - R
   - O
   - «
   - »
@@ -127,7 +127,6 @@ characters:
   - °
   - W
   - „
-  - ᵉ
   - ⎯
   - –
   - '"'
@@ -167,11 +166,11 @@ title: Transcribo_quest
 transcription-guidelines: A ajouter
 url: https://github.com/gabays/TranscriboQuest_Modern
 volume:
-- count: 37255
+- count: 37111
   metric: characters
 - count: 43
   metric: files
-- count: 1362
+- count: 1355
   metric: lines
-- count: 223
+- count: 209
   metric: regions
