@@ -62,5 +62,5 @@ format: Alto-XML
 volume:
   - metric: lines
     count: 10
-citation-file-link: qqpart
+citation-file-link: https://raw.githubusercontent.com/gabays/TranscriboQuest_Modern/main/citation.cff
 transcription-guidelines: A ajouter
