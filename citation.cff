@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "TranscriboQuest_Modern"
+title: "TranscriboQuest - Modern manuscripts dataset"
 message: >-
   If you use this dataset, please cite it using the
   metadata from this file.
@@ -29,7 +29,6 @@ authors:
     orcid: https://orcid.org/0000-0002-1617-8554
   - family-names: Remaki
     given-names: Arilès
-    orcid: https://orcid.org/0000-0002-1617-8554
 repository-code: 'https://github.com/gabays/TranscriboQuest_Modern'
 keywords:
   - HTR
