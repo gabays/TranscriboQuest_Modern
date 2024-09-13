@@ -32,6 +32,10 @@ authors:
   roles:
   - transcriber
   surname: Remaki
+- name: Simon
+  roles:
+  - support
+  surname: Gabay
 automatically-aligned: false
 characters:
   members:
