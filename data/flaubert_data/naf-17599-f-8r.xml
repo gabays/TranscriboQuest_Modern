@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>naf-17599-f-8r.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16487" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16488" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT16489" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16490" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16491" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16492" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16493" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT16494" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16495" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16496" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16497" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16498" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16499" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16500" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16557" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT6898" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6899" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6900" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6901" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6918" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2500"
+          HEIGHT="3686"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2500"
+                  HEIGHT="3686">
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
