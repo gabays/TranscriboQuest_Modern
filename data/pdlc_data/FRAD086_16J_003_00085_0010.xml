@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT16544" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT16545" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16546" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16547" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16548" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16549" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT16550" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16551" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16552" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16553" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16554" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16555" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16556" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16543" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16573" LABEL="text" DESCRIPTION="block type text"/>
-    <OtherTag ID="LT6914" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6915" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6916" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6917" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6923" LABEL="default" DESCRIPTION="line type default"/>
+    <OtherTag ID="BT16544" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT16545" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16546" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16547" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16548" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16549" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT16550" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16551" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16552" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16553" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16554" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16555" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16556" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16543" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
+    <OtherTag ID="LT6914" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6915" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6916" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6917" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
   <Layout>
@@ -30,12 +30,12 @@
                    WIDTH="774"
                    HEIGHT="359"
                    ID="eSc_textblock_1315f214"
-                   >
+                   TAGREFS="BT16547">
           <Shape><Polygon POINTS="95 51 95 410 869 410 869 51"/></Shape>
           
           
           <TextLine ID="eSc_line_4bb370e0"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="140 118 869 73" 
                     HPOS="136"
                     VPOS="51"
@@ -52,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_41491754"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="194 199 770 177" 
                     HPOS="191"
                     VPOS="136"
@@ -69,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_ddbeba25"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="282 255 626 244" 
                     HPOS="280"
                     VPOS="214"
@@ -86,14 +86,14 @@
           
           
           <TextLine ID="eSc_line_5405be6f"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="95 307 867 298" 
                     HPOS="93"
                     VPOS="262"
                     WIDTH="773"
                     HEIGHT="70">
             <Shape><Polygon POINTS="94 306 94 328 130 331 131 331 164 328 249 321 295 328 326 332 326 332 390 332 412 331 413 331 424 327 451 318 467 322 468 322 469 322 494 319 508 325 508 325 509 325 545 317 559 323 560 323 561 323 561 323 575 319 604 326 605 326 606 326 606 326 629 316 670 316 685 323 686 323 686 323 687 323 700 319 736 323 737 323 782 316 810 325 813 326 814 326 814 326 866 325 866 297 864 262 828 262 828 262 827 262 825 264 796 278 771 282 746 282 712 267 711 267 710 267 709 267 709 267 707 268 689 275 670 273 670 273 669 273 643 284 623 284 595 276 595 276 594 276 510 285 496 278 495 278 495 278 471 280 452 277 450 277 449 277 449 277 447 277 419 286 401 279 376 268 376 268 332 268 331 268 249 271 248 271 200 286 189 290 121 290 117 289 104 285 103 285 102 285 102 285 93 289 94 306"/></Shape>
-	    <String CONTENT="mais au Peloton des dispensés, 13^e escouade"
+	    <String CONTENT="mais: au Peloton des dispensés, 13^e escouade"
                     HPOS="93"
                     VPOS="262"
                     WIDTH="773"
@@ -103,7 +103,7 @@
           
           
           <TextLine ID="eSc_line_72f829ac"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="136 372 520 370" 
                     HPOS="134"
                     VPOS="346"
@@ -125,12 +125,12 @@
                    WIDTH="300"
                    HEIGHT="348"
                    ID="eSc_textblock_adc52654"
-                   >
+                   TAGREFS="BT16547">
           <Shape><Polygon POINTS="891 53 891 401 1191 401 1191 53"/></Shape>
           
           
           <TextLine ID="eSc_line_c1f41c68"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="900 120 1175 125" 
                     HPOS="899"
                     VPOS="76"
@@ -147,7 +147,7 @@
           
           
           <TextLine ID="eSc_line_d347c2fc"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="1013 163 1155 168" 
                     HPOS="1011"
                     VPOS="139"
@@ -164,7 +164,7 @@
           
           
           <TextLine ID="eSc_line_06d38f93"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="909 217 1085 219" 
                     HPOS="908"
                     VPOS="184"
@@ -181,7 +181,7 @@
           
           
           <TextLine ID="eSc_line_b9275855"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="1038 271 1157 262" 
                     HPOS="1034"
                     VPOS="227"
@@ -198,7 +198,7 @@
           
           
           <TextLine ID="eSc_line_e6633790"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="918 332 1112 325" 
                     HPOS="916"
                     VPOS="289"
@@ -215,7 +215,7 @@
           
           
           <TextLine ID="eSc_line_b297324e"
-                    
+                    TAGREFS="LT6914"
                     BASELINE="1062 381 1179 370" 
                     HPOS="1058"
                     VPOS="337"
