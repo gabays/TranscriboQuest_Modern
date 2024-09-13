@@ -167,12 +167,6 @@ title: Transcribo_quest
 transcription-guidelines: A ajouter
 url: https://github.com/gabays/TranscriboQuest_Modern
 volume:
-<<<<<<< HEAD
-  - metric: lines
-    count: 10
-citation-file-link: https://raw.githubusercontent.com/gabays/TranscriboQuest_Modern/main/citation.cff
-transcription-guidelines: A ajouter
-=======
 - count: 37255
   metric: characters
 - count: 43
@@ -181,4 +175,5 @@ transcription-guidelines: A ajouter
   metric: lines
 - count: 223
   metric: regions
->>>>>>> refs/remotes/origin/main
+citation-file-link: https://raw.githubusercontent.com/gabays/TranscriboQuest_Modern/main/citation.cff
+transcription-guidelines: A ajouter
