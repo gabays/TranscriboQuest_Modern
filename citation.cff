@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "TranscriboQuest_Modern"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - family-names: Gabay
+    given-names: Simon
+    email: simon.gabay@unige.ch
+    affiliation: Geneva University
+    orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Rabouin
+    given-names: David
+    orcid: https://orcid.org/0000-0002-9046-5535
+  - family-names: Taounza-Jeminet
+    given-names: Alyx
+    orcid: https://orcid.org/0000-0003-4611-5041
+  - family-names: Dord-Crouslé
+    given-names: Stéphanie
+    orcid: https://orcid.org/0000-0002-6683-9509
+  - family-names: Chaix Rouchon
+    given-names: Béatrice
+  - family-names: Crespi
+    given-names: Serena
+    orcid: https://orcid.org/0000-0001-6747-3257
+  - family-names: Morlock
+    given-names: Emmanuelle
+    orcid: https://orcid.org/0000-0002-1617-8554
+  - family-names: Remaki
+    given-names: Arilès
+    orcid: https://orcid.org/0000-0002-1617-8554
+repository-code: 'https://github.com/gabays/TranscriboQuest_Modern'
+keywords:
+  - HTR
+  - french
+  - italian
+  - latin
+  - english
+  - modern
+  - manuscript
+  - draft
+version: 1.0
+date-released: 2024-09-13

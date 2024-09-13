@@ -1,0 +1,66 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: Transcribo_quest
+url: https://github.com/gabays/TranscriboQuest_Modern
+authors:
+  - name: David
+    surname: Rabouin
+    orcid: 0000-0002-9046-5535
+    roles:
+      - transcriber
+  - name: Alyx
+    surname: Taounza-Jeminet
+    orcid: 0000-0003-4611-5041
+    roles:
+      - transcriber
+  - name: Stéphanie
+    surname: Dord-Crouslé
+    orcid: 0000-0002-6683-9509
+    roles:
+      - transcriber
+  - name: Béatrice
+    surname: Chaix Rouchon
+    roles:
+      - transcriber
+  - name: Serena
+    surname: Crespi
+    orcid: 0000-0001-6747-3257
+    roles:
+      - transcriber
+  - name: Emmanuelle
+    surname: Morlock
+    orcid: 0000-0002-1617-8554
+    roles:
+      - transcriber
+  - name: Arilès
+    surname: Remaki
+    roles:
+      - transcriber
+institutions: []
+description: qqpart
+project-name: Transcribo_quest
+project-website: https://transcriboquest24.sciencesconf.org/
+language:
+  - fra
+  - lat
+  - eng
+  - ita
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1600'
+  notAfter: '1885'
+hands:
+  count: 1-per-folder
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: lines
+    count: 10
+citation-file-link: qqpart
+transcription-guidelines: A ajouter
