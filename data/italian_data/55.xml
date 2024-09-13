@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>55.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16512" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16513" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16514" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16501" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16502" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT16503" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16504" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16505" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16506" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16507" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT16508" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16509" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16510" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16511" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16574" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT6853" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6902" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6903" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6904" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6905" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="840"
+          HEIGHT="1284"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="840"
+                  HEIGHT="1284">
+        
+        <TextBlock HPOS="5"
+                   VPOS="0"
+                   WIDTH="834"
+                   HEIGHT="393"
+                   ID="eSc_textblock_5d0644c5"
+                   TAGREFS="BT16505">
+          <Shape><Polygon POINTS="702 8 817 22 831 37 839 93 822 142 822 190 791 207 817 208 828 231 828 364 743 393 711 378 591 370 71 358 36 318 8 318 11 276 25 259 8 156 5 37 8 8 26 0 622 7"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_eccfb8f1"
+                    TAGREFS="LT6853"
+                    BASELINE="29 42 767 60" 
+                    HPOS="29"
+                    VPOS="0"
+                    WIDTH="738"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="251 2 251 2 244 2 236 2 229 2 224 2 210 7 200 9 191 6 180 2 179 2 172 2 165 2 158 2 151 2 144 1 137 1 129 1 122 1 115 1 108 1 101 1 94 1 87 1 79 0 72 0 65 0 58 0 51 0 44 0 37 0 29 0 29 42 29 49 72 54 73 54 146 53 176 53 179 54 206 65 206 65 207 65 256 63 297 67 298 67 348 60 353 59 355 60 368 67 368 67 369 67 396 62 413 59 438 59 445 63 448 65 449 65 450 65 463 64 491 61 500 65 510 69 510 69 511 69 512 69 519 66 526 62 536 62 548 67 565 74 565 74 566 74 593 68 608 65 666 69 668 71 676 77 677 77 677 77 678 77 766 74 767 60 767 30 711 29 704 27 682 22 682 22 681 22 670 23 650 14 649 14 648 14 631 14 630 14 611 23 605 26 594 22 578 18 578 18 577 18 556 21 551 22 545 21 501 11 501 11 500 11 485 18 474 23 456 17 454 17 453 17 453 17 451 17 440 18 434 16 410 7 409 7 383 5 383 5 363 9 340 7 339 7 338 7 330 12 316 19 296 19 270 9 252 2 251 2"/></Shape>
+	    <String CONTENT="A di. 15. Luglio 1679: Tiró ad Un Capriol Il CaIgn^o"
+                    HPOS="29"
+                    VPOS="0"
+                    WIDTH="738"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_367f3827"
+                    TAGREFS="LT6853"
+                    BASELINE="27 92 177 96 257 102 611 109" 
+                    HPOS="26"
+                    VPOS="50"
+                    WIDTH="585"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="27 92 26 101 78 102 80 104 95 111 96 111 97 111 97 111 98 111 107 105 109 104 149 104 157 107 159 109 160 109 161 109 167 108 180 107 183 109 184 110 185 110 186 110 186 110 199 109 233 108 240 111 253 119 254 119 254 119 276 116 340 127 368 128 369 128 370 128 371 128 385 119 388 116 401 119 410 121 411 121 418 120 436 117 446 121 453 125 453 125 454 125 455 125 461 122 478 115 493 124 503 131 503 131 504 131 561 132 562 132 563 132 563 132 570 128 575 125 610 129 611 109 611 84 548 82 545 80 528 67 527 67 526 67 525 67 525 67 505 72 481 62 481 62 480 62 479 62 451 69 442 67 441 67 441 67 440 67 439 67 430 74 421 79 399 79 373 72 373 72 372 72 346 77 331 67 325 64 324 64 324 64 323 64 309 67 300 68 296 66 294 64 294 64 293 64 292 64 291 64 289 65 279 69 272 64 271 63 270 63 269 63 269 63 262 64 251 65 248 63 246 61 245 61 244 61 244 61 243 61 242 61 240 62 221 74 210 74 170 58 157 53 156 53 27 50 27 92"/></Shape>
+	    <String CONTENT="Una Volpè e Duè Leproni Giuseppe"
+                    HPOS="26"
+                    VPOS="50"
+                    WIDTH="585"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba728dfa"
+                    TAGREFS="LT6853"
+                    BASELINE="33 141 185 146 289 144" 
+                    HPOS="32"
+                    VPOS="109"
+                    WIDTH="257"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="33 141 32 146 54 152 54 152 92 149 96 153 97 153 97 154 97 154 98 154 120 158 121 158 148 154 161 164 162 164 162 164 202 165 203 165 204 165 204 165 225 152 226 152 270 160 271 160 271 160 288 154 289 144 289 133 267 119 266 119 241 112 241 112 228 112 227 112 226 112 226 112 205 126 204 126 201 125 191 121 191 121 190 121 189 121 189 121 189 122 186 124 178 132 145 132 102 131 93 121 93 121 92 121 92 121 91 121 84 121 72 113 71 112 70 112 69 112 33 109 33 141"/></Shape>
+	    <String CONTENT="Adi P. Agosto"
+                    HPOS="32"
+                    VPOS="109"
+                    WIDTH="257"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4256cc9d"
+                    TAGREFS="LT6853"
+                    BASELINE="31 190 490 200 760 211" 
+                    HPOS="30"
+                    VPOS="144"
+                    WIDTH="731"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="31 190 30 197 51 206 52 206 52 206 98 202 108 206 109 206 109 206 144 201 149 201 157 201 192 206 193 206 221 204 231 203 234 204 239 207 239 207 240 207 241 207 266 205 277 204 281 206 300 212 301 212 301 212 329 207 336 206 343 207 363 214 364 214 365 214 366 214 381 209 386 207 394 209 403 211 403 211 404 211 422 210 433 209 438 211 456 216 456 216 457 216 458 216 471 212 483 217 484 217 548 218 549 218 550 218 561 214 566 213 570 215 580 220 580 220 581 220 599 216 608 214 613 216 619 219 620 219 620 219 621 219 628 216 630 216 638 217 653 220 653 220 654 220 662 218 668 216 678 218 687 220 688 220 704 219 726 218 733 220 742 223 743 223 744 223 760 221 760 211 761 172 745 167 744 167 743 167 720 171 718 171 716 171 677 160 677 160 676 160 648 166 623 159 623 159 590 158 589 158 588 158 564 165 558 167 554 165 548 161 548 161 547 161 546 161 499 162 482 156 481 156 481 156 451 161 447 162 444 161 420 153 419 153 392 152 391 152 391 152 374 159 371 161 341 161 331 158 323 154 322 154 294 152 294 152 293 152 284 156 277 159 261 155 239 149 238 149 237 149 236 149 221 154 208 158 156 157 142 151 141 151 140 151 139 151 134 151 111 153 106 150 95 144 94 144 94 144 32 147 31 190"/></Shape>
+	    <String CONTENT="Un Lèpronè Una Starna Una Quaglia Il Cav^r Ant^o"
+                    HPOS="30"
+                    VPOS="144"
+                    WIDTH="731"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b28e7ca1"
+                    TAGREFS="LT6853"
+                    BASELINE="39 246 233 248 438 256 678 257 807 262" 
+                    HPOS="38"
+                    VPOS="201"
+                    WIDTH="769"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="39 246 38 257 77 256 84 259 97 265 97 265 117 266 118 266 140 261 148 259 269 259 291 265 313 269 314 269 314 269 326 266 340 262 376 262 386 267 391 271 392 271 393 271 393 271 448 268 483 268 491 270 500 273 501 273 501 273 502 273 509 271 517 268 541 271 558 273 559 273 568 272 598 266 665 271 665 271 666 271 680 268 698 276 701 276 702 276 702 276 713 276 765 271 782 278 783 278 784 278 785 278 806 278 807 262 807 234 768 223 767 223 767 223 766 223 746 228 693 216 692 216 692 216 663 223 623 214 623 214 622 214 621 214 599 225 595 226 567 229 524 229 510 221 501 217 500 217 499 217 498 217 491 221 477 228 394 227 376 216 367 211 366 211 366 211 345 207 344 207 305 209 269 206 221 205 220 205 219 205 211 209 203 213 184 210 183 210 182 210 158 222 117 222 79 203 78 202 77 202 39 201 39 246"/></Shape>
+	    <String CONTENT="Una Francolina Una Starna Uno Starnotto Gio^i Due Stor⎀"
+                    HPOS="38"
+                    VPOS="201"
+                    WIDTH="769"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e52d11c1"
+                    TAGREFS="LT6853"
+                    BASELINE="75 298 304 298" 
+                    HPOS="75"
+                    VPOS="260"
+                    WIDTH="229"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="75 298 75 304 102 304 103 304 108 308 109 308 109 308 110 308 142 305 149 304 154 305 173 309 174 310 214 310 214 309 214 309 224 306 230 304 234 306 236 308 237 308 238 308 239 308 239 308 244 306 248 304 260 307 272 309 273 309 304 307 304 298 304 273 252 271 240 261 240 260 239 260 239 260 219 260 218 260 217 260 216 260 216 261 211 265 206 261 206 261 205 261 204 261 204 261 194 264 162 260 162 260 161 260 138 271 119 263 119 263 118 263 117 263 99 272 97 273 75 272 75 298"/></Shape>
+	    <String CONTENT="notti Giuseppe."
+                    HPOS="75"
+                    VPOS="260"
+                    WIDTH="229"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7babbb2a"
+                    TAGREFS="LT6853"
+                    BASELINE="69 336 458 340 654 351 822 353" 
+                    HPOS="68"
+                    VPOS="293"
+                    WIDTH="754"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="154 298 154 298 153 298 152 298 122 308 102 298 97 298 92 298 83 299 82 298 76 298 75 295 70 293 69 336 68 370 125 358 152 365 152 365 153 365 154 365 181 355 355 357 379 364 380 364 381 364 381 364 393 360 423 373 424 373 458 380 461 380 461 380 463 380 488 376 518 380 519 380 520 380 536 373 550 379 550 379 551 379 581 377 593 382 594 382 595 382 595 382 623 372 633 375 634 375 635 375 663 370 713 385 716 386 717 386 820 388 822 353 822 323 753 323 749 320 722 304 722 304 721 304 706 303 705 303 578 306 525 301 524 301 523 301 504 311 501 312 454 313 443 308 423 298 422 298 394 298 393 298 393 298 368 305 359 307 301 305 300 305 299 305 288 311 241 313 176 311 155 298 154 298"/></Shape>
+	    <String CONTENT="Una Starna Giov^i Uno Starnotto il Cav^r Ant^o Un Leprone"
+                    HPOS="68"
+                    VPOS="293"
+                    WIDTH="754"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64b677d2"
+                    TAGREFS="LT6853"
+                    BASELINE="750 320 815 322" 
+                    HPOS="750"
+                    VPOS="289"
+                    WIDTH="65"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="750 331 813 335 815 322 815 289 787 290 787 290 774 296 758 295 752 289 750 320 750 331"/></Shape>
+	    <String CONTENT="Giov^i"
+                    HPOS="750"
+                    VPOS="289"
+                    WIDTH="65"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="51"
+                   VPOS="1224"
+                   WIDTH="560"
+                   HEIGHT="53"
+                   ID="eSc_textblock_1e288d79"
+                   TAGREFS="BT16506">
+          <Shape><Polygon POINTS="492 1232 608 1244 611 1257 372 1277 51 1271 54 1232 78 1224 156 1226"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_58ad5aec"
+                    TAGREFS="LT6853"
+                    BASELINE="53 1261 448 1257" 
+                    HPOS="52"
+                    VPOS="1224"
+                    WIDTH="396"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="388 1230 381 1229 373 1229 366 1229 359 1229 352 1229 351 1229 347 1231 343 1229 338 1229 331 1229 326 1232 319 1228 316 1228 309 1228 302 1228 297 1228 281 1234 276 1231 275 1231 274 1231 274 1231 273 1231 272 1231 272 1231 269 1234 240 1231 239 1231 216 1235 204 1226 202 1226 199 1226 184 1229 179 1225 174 1225 167 1225 159 1225 152 1225 145 1224 138 1224 131 1224 124 1224 117 1224 112 1224 84 1224 84 1224 83 1224 66 1238 54 1238 52 1243 53 1261 53 1267 65 1271 66 1271 67 1271 67 1271 76 1268 78 1267 80 1268 107 1275 108 1275 109 1275 109 1275 137 1268 144 1266 169 1266 171 1269 173 1270 173 1271 174 1271 174 1271 175 1271 194 1269 212 1266 219 1269 230 1273 231 1273 231 1273 249 1269 252 1269 258 1269 281 1271 282 1271 283 1271 284 1271 287 1269 291 1266 308 1269 313 1270 314 1270 314 1270 315 1270 316 1269 321 1266 329 1269 336 1273 337 1273 338 1273 383 1272 383 1272 388 1270 396 1266 447 1270 448 1257 447 1235 398 1235 390 1230 388 1230"/></Shape>
+	    <String CONTENT="Si Andó a Caccia Per Il Sig^r Loren"
+                    HPOS="52"
+                    VPOS="1224"
+                    WIDTH="396"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="77"
+                   VPOS="1121"
+                   WIDTH="19"
+                   HEIGHT="16"
+                   ID="eSc_textblock_9e53564a"
+                   TAGREFS="BT16574">
+          <Shape><Polygon POINTS="96 1124 96 1137 77 1137 81 1121"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="837"
+                   VPOS="39"
+                   WIDTH="2"
+                   HEIGHT="3"
+                   ID="eSc_textblock_ed116a52"
+                   TAGREFS="BT16574">
+          <Shape><Polygon POINTS="839 42 837 42 837 39 839 39"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
