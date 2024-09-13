@@ -1,8 +1,8 @@
-# FONDUE-EN-UN-20-PR
+# TranscriboQuest - Modern documents
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-This repo contains the transcription of 20th c. UN resolutions
+This repo contains the transcription of modern manuscripts
 
 ## Content
 
@@ -14,7 +14,7 @@ This repo contains the transcription of 20th c. UN resolutions
 
 ## How to cite
 
-Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-UN-PRINT-20/blob/main/htr-united.yml) file.
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/TranscriboQuest_Modern/blob/main/htr-united.yml) file.
 
 ## Licences
 Annotation is ©. Images belong to the digital libraries.
