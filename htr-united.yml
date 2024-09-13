@@ -167,7 +167,7 @@ time:
   notAfter: '1885'
   notBefore: '1600'
 title: Transcribo_quest
-transcription-guidelines: A ajouter
+transcription-guidelines: https://github.com/gabays/TranscriboQuest_Modern/blob/main/guidelines.pdf
 url: https://github.com/gabays/TranscriboQuest_Modern
 volume:
 - count: 37111
