@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRAD086_16J_003_00085_0024.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16544" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT16545" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16546" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16547" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16548" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16549" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT16550" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16551" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16552" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16553" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16554" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16555" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16556" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16543" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16573" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT6914" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6915" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT6916" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6917" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6923" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1248"
+          HEIGHT="834"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1248"
+                  HEIGHT="834">
+        
+        <TextBlock HPOS="66"
+                   VPOS="654"
+                   WIDTH="83"
+                   HEIGHT="90"
+                   ID="eSc_textblock_ddd8d7fc"
+                   TAGREFS="BT16573">
+          <Shape><Polygon POINTS="88 654 127 667 142 682 149 717 144 737 125 744 85 744 74 737 66 682 88 654"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_32413f00"
+                    
+                    BASELINE="125 739 123 737 107 714 82 661" 
+                    HPOS="70"
+                    VPOS="656"
+                    WIDTH="61"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="81 660 79 662 74 670 70 675 73 705 73 706 73 706 73 706 73 707 79 710 88 735 88 736 89 736 89 736 90 736 102 742 114 742 124 738 131 734 88 656 81 660"/></Shape>
+	    <String CONTENT="1888"
+                    HPOS="70"
+                    VPOS="656"
+                    WIDTH="61"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="153"
+                   VPOS="53"
+                   WIDTH="1024"
+                   HEIGHT="395"
+                   ID="eSc_textblock_3ca28f53"
+                   TAGREFS="BT16573">
+          <Shape><Polygon POINTS="1043 53 1103 59 1107 82 1121 94 1123 112 1142 124 1162 124 1173 135 1177 164 1164 187 1166 225 1147 266 1114 281 1058 290 857 288 778 301 772 322 785 339 786 381 770 412 744 435 540 448 387 446 279 436 259 427 259 385 240 353 161 340 153 327 159 296 153 229 159 103 196 90 211 74 402 61 529 64 594 57 1043 53"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8869be83"
+                    TAGREFS="LT6923"
+                    BASELINE="208 90 378 89 649 89 734 86 1085 81" 
+                    HPOS="207"
+                    VPOS="55"
+                    WIDTH="877"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1076 56 1070 55 927 56 926 56 921 59 901 67 870 60 858 57 835 57 834 57 833 57 825 61 815 66 788 61 762 58 761 58 760 58 750 63 737 69 700 63 665 59 664 59 633 65 602 72 511 73 486 68 449 61 443 61 442 61 410 70 397 75 289 75 284 73 271 69 269 70 262 70 255 70 248 74 245 75 237 75 221 72 221 72 214 73 207 77 207 89 207 100 393 93 476 95 511 97 512 97 545 96 545 96 549 95 554 92 568 94 580 96 581 96 593 94 609 91 635 93 659 95 660 95 703 92 741 89 766 91 788 93 789 93 807 91 825 88 839 90 871 93 871 93 872 93 881 89 883 88 995 87 1000 87 1026 91 1026 91 1083 86 1084 80 1082 56 1076 56"/></Shape>
+	    <String CONTENT="«La communication que j&#x27;ai l&#x27;honneur de faire à la société"
+                    HPOS="207"
+                    VPOS="55"
+                    WIDTH="877"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b9a8995"
+                    TAGREFS="LT6923"
+                    BASELINE="165 128 295 126 406 121 575 124 815 119 986 112 1114 111" 
+                    HPOS="164"
+                    VPOS="88"
+                    WIDTH="950"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="165 128 165 135 223 131 264 132 264 132 297 129 311 131 312 131 326 128 382 130 383 130 402 126 485 126 499 128 506 129 506 129 586 128 603 126 613 125 622 125 639 126 639 126 723 123 743 122 745 122 753 125 753 125 753 125 874 123 939 118 955 117 982 117 983 117 993 120 994 120 994 120 994 120 1007 117 1008 116 1021 116 1081 117 1081 117 1114 114 1114 111 1113 88 1040 88 1040 88 1039 88 1032 90 1016 94 994 94 994 94 994 94 980 97 952 92 947 91 930 89 929 89 929 89 918 92 917 93 915 93 903 90 902 90 887 93 847 102 726 102 725 102 675 105 649 99 642 97 612 95 611 95 549 96 525 101 521 102 515 102 500 100 500 100 483 102 445 108 422 104 398 100 397 100 367 105 342 110 324 106 297 101 272 101 272 101 272 101 261 104 187 104 187 104 186 104 164 110 165 128"/></Shape>
+	    <String CONTENT="tendrait à confirmer à l&#x27;aide d&#x27;un fait matériel l&#x27;opinion déjà"
+                    HPOS="164"
+                    VPOS="88"
+                    WIDTH="950"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_415c0d2c"
+                    TAGREFS="LT6923"
+                    BASELINE="170 162 306 157 598 153 1160 152" 
+                    HPOS="169"
+                    VPOS="130"
+                    WIDTH="991"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="170 162 170 164 247 164 260 161 277 163 277 163 298 160 382 163 383 163 383 163 396 159 429 159 449 161 449 161 490 159 513 163 513 163 561 158 574 160 575 160 611 158 632 162 633 162 674 158 698 162 699 162 699 162 710 159 778 160 779 160 828 157 879 160 880 160 907 156 945 158 945 158 996 156 1026 159 1026 159 1046 156 1119 156 1159 159 1160 152 1159 140 1096 140 1095 139 1065 133 1064 133 1042 135 1023 130 1022 130 1022 130 977 139 970 140 956 139 944 138 944 138 937 139 926 140 918 139 886 130 885 130 816 130 815 130 709 131 684 137 667 141 649 138 649 138 613 140 585 137 542 132 541 132 497 132 496 132 481 136 456 143 398 141 398 141 383 143 289 142 289 142 236 144 193 135 190 134 190 134 169 134 170 162"/></Shape>
+	    <String CONTENT="émise par certains archéologues que le petit édifice carré (quadriforme)"
+                    HPOS="169"
+                    VPOS="130"
+                    WIDTH="991"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f13787fd"
+                    TAGREFS="LT6923"
+                    BASELINE="171 196 504 189 824 185 983 185 1120 187" 
+                    HPOS="169"
+                    VPOS="156"
+                    WIDTH="950"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="170 195 171 203 346 196 372 200 375 200 376 200 384 200 453 195 496 198 500 198 501 198 508 198 575 193 621 196 645 198 646 198 659 195 681 192 718 195 725 195 725 195 732 194 769 191 787 193 791 194 792 194 803 193 839 190 848 193 855 195 856 195 857 195 869 192 882 189 942 191 999 193 999 193 1000 193 1006 190 1012 188 1019 190 1026 192 1027 192 1028 192 1119 188 1119 186 1118 168 1089 159 1088 159 1088 159 1087 159 1069 166 1019 170 1017 170 987 157 987 157 965 156 964 156 892 161 875 157 874 157 873 157 727 159 726 159 693 168 659 160 659 160 658 160 627 174 625 175 625 174 597 163 596 163 595 163 595 163 564 172 541 162 540 162 517 162 516 162 515 162 485 174 464 176 454 177 169 179 170 195"/></Shape>
+	    <String CONTENT="qui est une des antiquités des plus attractives de Poitiers, a été,"
+                    HPOS="169"
+                    VPOS="156"
+                    WIDTH="950"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22b60c2f"
+                    TAGREFS="LT6923"
+                    BASELINE="166 235 399 235 765 227 1160 219" 
+                    HPOS="164"
+                    VPOS="195"
+                    WIDTH="995"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="165 234 165 246 234 245 235 245 248 239 328 243 328 243 329 243 342 239 503 240 504 240 545 234 575 239 576 239 606 234 780 235 784 235 785 235 786 235 808 229 914 227 1159 228 1159 218 1157 207 1087 207 1086 207 1054 195 1053 195 1035 195 1034 195 1004 199 965 197 965 197 926 205 894 198 893 198 812 200 811 200 785 209 764 209 742 201 741 201 741 201 675 202 675 202 632 215 631 215 628 215 600 211 600 211 599 211 590 216 590 216 589 216 581 212 580 212 579 212 556 216 549 217 545 216 531 211 530 211 529 211 529 211 515 216 511 218 369 220 367 219 342 210 341 210 340 210 339 210 319 218 183 218 182 218 182 218 164 222 165 234"/></Shape>
+	    <String CONTENT="aux premières années de l&#x27;ère chrétienne, dans sa destination"
+                    HPOS="164"
+                    VPOS="195"
+                    WIDTH="995"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fca757cc"
+                    TAGREFS="LT6923"
+                    BASELINE="173 273 265 273 429 269 673 271 839 266 889 262 1004 256 1133 255" 
+                    HPOS="173"
+                    VPOS="237"
+                    WIDTH="960"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="173 287 261 286 275 284 299 282 314 284 329 285 329 285 342 283 390 274 461 277 461 277 526 271 551 275 551 275 578 273 595 276 612 278 612 278 629 275 638 273 644 274 657 278 657 278 658 278 733 273 776 276 777 276 804 270 922 267 927 266 941 263 1068 262 1073 262 1090 265 1091 265 1133 260 1133 255 1133 241 1101 237 1100 237 1081 241 1070 245 1043 246 1025 242 1020 241 1020 241 1010 242 964 246 941 243 905 237 880 237 879 237 861 240 835 238 834 238 804 244 759 253 576 255 502 252 477 246 460 242 460 242 394 243 378 247 344 255 310 247 293 244 293 244 173 249 173 273 173 287"/></Shape>
+	    <String CONTENT="véritable, un édifice payen renfermant le sarcophage de"
+                    HPOS="173"
+                    VPOS="237"
+                    WIDTH="960"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3629a7a7"
+                    TAGREFS="LT6923"
+                    BASELINE="166 315 222 312 341 312 525 304" 
+                    HPOS="164"
+                    VPOS="275"
+                    WIDTH="360"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="165 314 165 321 203 319 205 321 210 323 211 323 212 323 212 323 213 323 216 320 220 317 247 317 250 319 256 323 257 323 257 323 258 323 259 323 269 321 292 324 292 324 293 324 294 324 294 323 294 323 299 317 301 315 306 315 310 317 318 323 319 323 319 323 320 323 321 323 321 323 327 319 349 322 349 322 350 322 351 322 358 317 362 321 362 321 363 321 364 321 365 321 378 317 385 321 385 321 386 321 387 321 387 321 403 314 409 312 424 314 439 316 440 316 440 316 449 313 456 310 458 312 463 316 463 316 463 316 464 316 465 316 477 314 481 317 481 318 482 318 483 318 483 318 518 317 519 317 520 317 520 316 524 311 524 303 520 275 508 284 498 282 497 282 497 282 496 282 496 283 489 290 465 290 452 279 449 277 449 276 449 276 448 276 431 276 431 276 430 276 429 276 423 280 403 293 366 293 356 284 351 280 351 279 350 279 349 279 340 279 339 279 339 279 338 279 328 286 312 296 287 296 279 288 276 286 276 285 276 285 275 285 255 282 229 282 228 282 228 282 227 282 227 283 223 286 189 284 188 284 187 284 164 293 165 314"/></Shape>
+	    <String CONTENT="Claudia Varenilla.»"
+                    HPOS="164"
+                    VPOS="275"
+                    WIDTH="360"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67310a32"
+                    TAGREFS="LT6923"
+                    BASELINE="273 374 322 379 741 364" 
+                    HPOS="271"
+                    VPOS="330"
+                    WIDTH="469"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="272 373 273 397 312 396 312 396 314 396 352 385 358 389 358 389 359 389 360 389 383 387 383 387 384 387 392 380 399 385 400 385 401 385 401 385 402 385 403 385 417 376 427 380 428 380 428 381 428 380 429 380 440 376 459 378 469 382 470 382 471 382 501 376 520 381 520 381 521 381 522 381 553 372 561 376 562 376 563 376 563 376 568 374 581 382 581 383 582 383 583 383 584 383 584 383 585 383 586 382 604 371 627 376 628 376 629 376 629 376 635 371 650 376 650 376 651 376 652 376 663 373 669 378 670 378 670 378 671 378 672 378 693 371 702 377 702 377 703 377 704 377 707 376 730 371 739 375 740 363 736 331 730 335 724 332 720 330 720 330 719 330 718 330 713 332 684 344 668 337 667 337 666 337 666 337 665 337 650 346 591 348 581 344 580 344 579 344 579 344 568 347 561 341 558 339 557 339 556 339 556 339 531 342 522 336 521 336 520 336 520 336 519 336 505 341 496 337 495 337 495 337 494 337 475 344 462 342 461 342 460 342 447 348 428 345 428 345 427 345 426 345 420 349 385 341 385 341 384 341 383 341 367 353 367 354 366 353 349 342 349 342 348 342 347 342 330 346 292 344 292 344 291 344 290 344 271 357 272 373"/></Shape>
+	    <String CONTENT="(Soct. antiq. de l&#x27;Ouest"
+                    HPOS="271"
+                    VPOS="330"
+                    WIDTH="469"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac751199"
+                    TAGREFS="LT6923"
+                    BASELINE="299 417 463 420 752 401" 
+                    HPOS="297"
+                    VPOS="385"
+                    WIDTH="455"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="298 431 312 435 313 435 314 435 320 431 321 431 333 433 334 433 349 430 358 429 360 430 368 437 369 437 391 439 392 439 413 435 414 435 415 435 422 430 426 426 466 424 473 428 474 428 475 428 498 424 506 428 507 428 508 428 536 421 545 428 546 428 547 428 548 428 549 428 553 424 563 428 574 431 575 431 576 431 577 431 588 427 595 425 597 427 607 433 608 433 609 433 652 431 653 431 668 426 684 420 698 426 705 428 706 428 707 428 752 424 751 400 749 388 743 390 739 388 732 385 731 385 730 385 725 389 722 392 713 392 709 389 707 387 706 387 705 387 680 387 679 387 678 387 675 390 671 392 659 390 655 390 654 390 651 391 622 396 614 391 610 389 609 389 608 389 607 389 598 392 591 394 572 393 556 391 555 391 554 391 552 394 540 401 488 403 473 396 462 390 461 390 460 390 297 400 298 417"/></Shape>
+	    <String CONTENT="Vol IV. 2 février, 1888, p.310)"
+                    HPOS="297"
+                    VPOS="385"
+                    WIDTH="455"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="76"
+                   VPOS="315"
+                   WIDTH="60"
+                   HEIGHT="181"
+                   ID="eSc_textblock_ad4f02d2"
+                   TAGREFS="BT16573">
+          <Shape><Polygon POINTS="102 315 129 324 136 339 134 416 118 433 114 488 88 496 79 490 76 472 76 359 83 328 102 315"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_172409dc"
+                    
+                    BASELINE="95 499 93 471 95 441 107 386 107 306" 
+                    HPOS="75"
+                    VPOS="304"
+                    WIDTH="45"
+                    HEIGHT="194">
+            <Shape><Polygon POINTS="106 305 92 304 91 334 81 357 81 358 81 359 87 387 77 415 77 416 77 417 82 458 75 466 75 467 75 467 75 468 75 469 82 483 82 496 94 498 115 498 120 417 120 417 117 386 115 364 117 306 106 305"/></Shape>
+	    <String CONTENT="A. Barbier"
+                    HPOS="75"
+                    VPOS="304"
+                    WIDTH="45"
+                    HEIGHT="194"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
