@@ -2,7 +2,7 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-This repo contains the transcription of modern manuscripts
+This repo contains the transcription of modern manuscripts. Transcription guidelines are detailed [here](https://github.com/gabays/TranscriboQuest_Modern/blob/main/guidelines.pdf).
 
 ## Content
 
